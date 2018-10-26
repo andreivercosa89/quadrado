@@ -1,0 +1,11 @@
+/Users/aluno/Projects/quadrado/quadrado/bin/Debug/netcoreapp2.1/quadrado.deps.json
+/Users/aluno/Projects/quadrado/quadrado/bin/Debug/netcoreapp2.1/quadrado.runtimeconfig.json
+/Users/aluno/Projects/quadrado/quadrado/bin/Debug/netcoreapp2.1/quadrado.runtimeconfig.dev.json
+/Users/aluno/Projects/quadrado/quadrado/bin/Debug/netcoreapp2.1/quadrado.dll
+/Users/aluno/Projects/quadrado/quadrado/bin/Debug/netcoreapp2.1/quadrado.pdb
+/Users/aluno/Projects/quadrado/quadrado/obj/Debug/netcoreapp2.1/quadrado.csprojAssemblyReference.cache
+/Users/aluno/Projects/quadrado/quadrado/obj/Debug/netcoreapp2.1/quadrado.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/quadrado/quadrado/obj/Debug/netcoreapp2.1/quadrado.AssemblyInfoInputs.cache
+/Users/aluno/Projects/quadrado/quadrado/obj/Debug/netcoreapp2.1/quadrado.AssemblyInfo.cs
+/Users/aluno/Projects/quadrado/quadrado/obj/Debug/netcoreapp2.1/quadrado.dll
+/Users/aluno/Projects/quadrado/quadrado/obj/Debug/netcoreapp2.1/quadrado.pdb

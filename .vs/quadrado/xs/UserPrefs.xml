@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E93818EB-9B02-451A-A9D1-631D95E328A5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="quadrado/Quadrado.cs">
+    <Files>
+      <File FileName="quadrado/Program.cs" Line="1" Column="1" />
+      <File FileName="quadrado/Quadrado.cs" Line="6" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.quadrado PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
